@@ -1,5 +1,5 @@
 {
-	"name" : "minwork/array",
+	"name" : "nzo/array",
 	"description" : "Pack of advanced array functions specifically tailored for: associative (assoc) array, multidimensional array, array of objects and handling nested array elements",
 	"type" : "library",
 	"keywords" : [
